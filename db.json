@@ -2,99 +2,123 @@
   "pokemons": [
     {
       "name": "bulbasaur",
-      "id": 1
+      "id": 1,
+      "caught": true
     },
     {
       "name": "ivysaur",
-      "id": 2
+      "id": 2,
+      "caught": true
     },
     {
       "name": "venusaur",
-      "id": 3
+      "id": 3,
+      "caught": true
     },
     {
       "name": "charmander",
-      "id": 4
+      "id": 4,
+      "caught": true
     },
     {
       "name": "charmeleon",
-      "id": 5
+      "id": 5,
+      "caught": true
     },
     {
       "name": "charizard",
-      "id": 6
+      "id": 6,
+      "caught": true
     },
     {
       "name": "squirtle",
-      "id": 7
+      "id": 7,
+      "caught": true
     },
     {
       "name": "wartortle",
-      "id": 8
+      "id": 8,
+      "caught": true
     },
     {
       "name": "blastoise",
-      "id": 9
+      "id": 9,
+      "caught": true
     },
     {
       "name": "caterpie",
-      "id": 10
+      "id": 10,
+      "caught": true
     },
     {
       "name": "metapod",
-      "id": 11
+      "id": 11,
+      "caught": true
     },
     {
       "name": "butterfree",
-      "id": 12
+      "id": 12,
+      "caught": true
     },
     {
       "name": "weedle",
-      "id": 13
+      "id": 13,
+      "caught": true
     },
     {
       "name": "kakuna",
-      "id": 14
+      "id": 14,
+      "caught": true
     },
     {
       "name": "beedrill",
-      "id": 15
+      "id": 15,
+      "caught": true
     },
     {
       "name": "pidgey",
-      "id": 16
+      "id": 16,
+      "caught": true
     },
     {
       "name": "pidgeotto",
-      "id": 17
+      "id": 17,
+      "caught": true
     },
     {
       "name": "pidgeot",
-      "id": 18
+      "id": 18,
+      "caught": true
     },
     {
       "name": "rattata",
-      "id": 19
+      "id": 19,
+      "caught": true
     },
     {
       "name": "raticate",
-      "id": 20
+      "id": 20,
+      "caught": true
     },
     {
       "name": "spearow",
-      "id": 21
+      "id": 21,
+      "caught": true
     },
     {
       "name": "fearow",
-      "id": 22
+      "id": 22,
+      "caught": true
     },
     {
       "name": "ekans",
-      "id": 23
+      "id": 23,
+      "caught": true
     },
     {
       "name": "arbok",
-      "id": 24
+      "id": 24,
+      "caught": true
     },
     {
       "name": "pikachu",
@@ -138,7 +162,8 @@
     },
     {
       "name": "clefairy",
-      "id": 35
+      "id": 35,
+      "caught": true
     },
     {
       "name": "clefable",
